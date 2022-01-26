@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:greenyellow;
+}
+
+
+
+.tom{
+    width: 20%;
+}
+.black{
+    color: black;
+}
+h1{
+    color: brown;
+}
+h2{
+    color: rgb(224, 134, 16);
+    display: inline;
+}
+.logo{
+    width: 50px;
+}
